@@ -1,0 +1,103 @@
+﻿  course.cpp
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\course.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  teacher.cpp
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(49): warning C4101: “k”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(49): warning C4101: “j”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(49): warning C4101: “i”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(97): warning C4101: “k”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(97): warning C4101: “j”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(97): warning C4101: “i”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(166): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(162): warning C4101: “y”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(263): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(308): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(309): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(375): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(387): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(396): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(411): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(417): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(465): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(574): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(617): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(683): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(703): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(710): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(727): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(738): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\teacher.cpp(749): warning C4018: “<”: 有符号/无符号不匹配
+  student.cpp
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(73): warning C4101: “k”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(133): warning C4101: “j”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(133): warning C4101: “i”: 未引用的局部变量
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(264): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(294): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(338): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(423): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(472): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(499): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(506): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(526): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(535): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(537): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(554): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(563): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(564): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(565): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(583): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(592): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(593): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(594): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(611): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(620): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(621): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\11794\desktop\学生成绩管理系统（1\学生成绩管理系统\student.cpp(622): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  学生成绩管理系统.vcxproj -> C:\Users\11794\Desktop\学生成绩管理系统（1\Debug\学生成绩管理系统.exe
+  学生成绩管理系统.vcxproj -> C:\Users\11794\Desktop\学生成绩管理系统（1\Debug\学生成绩管理系统.pdb (Partial PDB)
